@@ -1,6 +1,5 @@
 # Python
 
-
 # Python Learning Journey
 
 Welcome to my Python learning journey! In this repository, you'll find all the Python code I'm working on as I explore and learn.
