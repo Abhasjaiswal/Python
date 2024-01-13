@@ -46,3 +46,6 @@ print(string+string2)
 print(string*100)
 #this will print the string 100 times. 
 
+str='Hello'
+print(str+ '4')
+print(str*5)
