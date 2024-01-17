@@ -47,3 +47,9 @@ print(10+5-8/2)  # 8/2 will be evaluated first and then 10+5
 
 
 
+a=10   #1010 in Binary
+b=4    #0100 in Binary
+print(a&b)   #0000 which is 0 in decimal
+print(a|b)   #1110 which is 14 in decimal
+
+ 
