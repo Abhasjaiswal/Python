@@ -53,3 +53,4 @@ print(a&b)   #0000 which is 0 in decimal
 print(a|b)   #1110 which is 14 in decimal
 
  
+print(15+3/4*10**2**2)

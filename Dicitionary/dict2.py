@@ -12,7 +12,7 @@ print(car['brand'])
 #syntax: dict_name.get(key)
 
 car = {'brand':'Audi','Model':'Q7'}
-print(car.get("brand"))
+print(car.get("Model"))
 
 
 """Accessing keys using keys() Method"""

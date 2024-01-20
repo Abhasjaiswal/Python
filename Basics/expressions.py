@@ -54,7 +54,7 @@ print(z)
 
 #  OPERATORS       
 
-#  (),[],{}                                 highest 
+#  (),[],{}                                 Highest 
 #     **
 #    +a , -a 
 #   *, / , // , %
@@ -70,6 +70,3 @@ print(z)
 #   and
 #   or 
 #   =,+=,-=,,/=,*=                           lowest 
-
-
-
