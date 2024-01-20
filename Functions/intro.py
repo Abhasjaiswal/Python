@@ -34,3 +34,25 @@ num1=int(input("Enter the first number: "))
 num2=int(input("Enter the second number: "))
 result=subtract(num1,num2)
 print(result)
+
+
+#Python Library Functions
+#In Python, standard library functions are the built-in functions that can be used directly in our program. For example,
+
+#print() - prints the string inside the quotation marks
+#sqrt() - returns the square root of a number
+#pow() - returns the power of a number
+#These library functions are defined inside the module. And, to use them we must include the module inside our program.
+
+#For example, sqrt() is defined inside the math module.
+import math
+
+# sqrt computes the square root
+square_root = math.sqrt(4)
+
+print("Square Root of 4 is",square_root)
+
+# pow() comptes the power
+power = pow(2, 3)
+
+print("2 to the power 3 is",power)
