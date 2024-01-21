@@ -47,3 +47,9 @@ if x<50:
      print("x is less than 50") 
 print("End of the program")
 
+print(3+2*2)
+print(type(int(12.3)))
+print(int(False))
+print(str(1)+str(1))
+print("ABC".replace("AB", "ab"))
+print(2/2)
