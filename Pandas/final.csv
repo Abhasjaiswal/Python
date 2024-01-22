@@ -1,0 +1,251 @@
+,Rank,Restaurant,Content,Sales,YOY_Sales,Units,YOY_Units,Headquarters,Segment_Category
+0,1,McDonald's,none,40412,4.9%,13846,-0.5%,N/A,Quick Service & Burger
+1,2,Starbucks,none,21380,8.6%,15049,3.0%,N/A,Quick Service & Coffee Cafe
+2,3,Chick-fil-A,"While Popeyes got a lot of the chicken buzz in 2019, Chick-fil-A had a busy year in its own right. On top of passing Taco Bell and Subway to become the nation's third-largest chain, it introduced dine-in mobile ordering, eliminated antibiotics from its chicken and added its first new permanent menu item in three years: mac and cheese.",11320,13.0%,2470,5.0%,N/A,Quick Service & Chicken
+3,4,Taco Bell,none,11293,9.0%,6766,2.7%,N/A,Quick Service & Mexican
+4,5,Burger King,none,10204,2.7%,7346,0.2%,N/A,Quick Service & Burger
+5,6,Subway,none,10200,-2.0%,23801,-4.0%,N/A,Quick Service & Sandwich
+6,7,Wendy's,none,9762,4.2%,5852,0.7%,N/A,Quick Service & Burger
+7,8,Dunkin',"Dunkin' dropped ""Donuts"" from its name and repositioned as a beverage-first concept, and it seems to have paid off, said Kevin Schimpf of Technomic. ""To have a good year while Starbucks is also still continuing to grow away, I think that was impressive for Dunkin',"" he said.",9228,5.0%,9630,2.2%,N/A,Quick Service & Coffee Cafe
+8,9,Domino's,none,7044,6.9%,6126,4.3%,N/A,Quick Service & Pizza
+9,10,Panera Bread,none,5890,4.0%,2160,3.2%,N/A,Fast Casual & Bakery Cafe
+10,11,Pizza Hut,"The chain moved to replace underperforming dine-in restaurants with takeout- and delivery-only units in 2019, leading to a 2.4% decline in unit count. Executives said in August that unit count could drop to as low as 7,000 before returning to normal levels as units are converted.",5558,0.6%,7306,-2.4%,N/A,Quick Service & Pizza
+11,12,Chipotle Mexican Grill,none,5509,14.8%,2584,5.3%,N/A,Fast Casual & Mexican
+12,13,Sonic Drive-In,"The drive-in chain grew same-store sales for the second straight year under new parent Inspire Brands, which acquired Sonic in 2018. It kicked off 2020 with a refreshed look and tag line: ""This is how we Sonic.""",4687,4.6%,3526,-2.1%,N/A,Quick Service & Burger
+13,14,KFC,none,4546,2.5%,4065,-0.2%,N/A,Quick Service & Chicken
+14,15,Olive Garden,"Olive Garden became the nation's largest casual-dining chain, growing sales 5% in 2019. The Italian chain seems to have had success bucking the delivery trend, delivering only for large orders of at least $75. It has also been focused on training and staffing to improve the dine-in experience.",4287,5.0%,866,1.3%,N/A,Casual Dining & Italian/Pizza
+15,16,Applebee's,none,4085,-3.0%,1665,-1.7%,N/A,Casual Dining & Varied Menu
+16,17,Panda Express,"Panda Express has quietly established itself as a fast-casual stalwart, posting another year of double-digit sales growth (12%). ""They continue to have just strong year after strong year, and there's never any competition in their segment,"" said Schimpf.",3946,12.0%,2209,4.9%,N/A,Fast Casual & Asian/Noodle
+17,18,Arby's,none,3884,1.9%,3359,0.9%,N/A,Quick Service & Sandwich
+18,19,Popeyes Louisiana Kitchen,none,3812,18.3%,2476,5.5%,N/A,Quick Service & Chicken
+19,20,Little Caesars,"The third-largest pizza chain's self-service, heated Pizza Portals have helped it stay competitive in the carryout-pizza sector. And in January, Little Caesars made its return to the delivery space, partnering with DoorDash to deliver pies for ""at least $5 less"" than its competitors.",3811,2.7%,4237,-0.6%,N/A,Quick Service & Pizza
+20,21,Dairy Queen,none,3760,2.9%,4381,-0.6%,N/A,Quick Service & Frozen Desserts
+21,22,Buffalo Wild Wings,none,3669,-0.1%,1206,-0.2%,N/A,Casual Dining & Sports Bar
+22,23,Chili's Grill & Bar,none,3563,2.2%,1242,-0.7%,N/A,Casual Dining & Varied Menu
+23,24,Jack in the Box,none,3504,1.1%,2243,0.3%,N/A,Quick Service & Burger
+24,25,IHOP,none,3266,2.0%,1710,0.3%,N/A,Family Dining & Family Style
+25,26,Texas Roadhouse,none,3016,11.0%,553,3.8%,N/A,Casual Dining & Steak
+26,27,Denny's,none,2691,1.1%,1558,-1.5%,N/A,Family Dining & Family Style
+27,28,Papa John's,none,2638,-2.7%,3142,-1.8%,N/A,Quick Service & Pizza
+28,29,Outback Steakhouse,none,2635,0.9%,724,-1.2%,N/A,Casual Dining & Steak
+29,30,Whataburger,none,2556,5.8%,830,0.6%,N/A,Quick Service & Burger
+30,31,Red Lobster,none,2490,1.6%,679,0.1%,N/A,Casual Dining & Seafood
+31,32,Cracker Barrel,"Cracker Barrel made the most surprising deal of 2019 when it took a $140 million stake in growth chain Punch Bowl Social. But that investment was tested in March, when the chain said it would not rescue Punch Bowl from foreclosure amid the coronavirus crisis, choosing instead to focus on helping its flagship chain and newly acquired Maple Street Biscuit Co.",2482,1.8%,660,0.8%,N/A,Family Dining & Family Style
+32,33,The Cheesecake Factory,none,2180,2.5%,206,2.5%,N/A,Casual Dining & Varied Menu
+33,34,Jimmy John's Gourmet Sandwiches,none,2105,-1.6%,2787,-0.5%,N/A,Fast Casual & Sandwich
+34,35,Hardee's,none,2020,-4.0%,1820,-1.4%,N/A,Quick Service & Burger
+35,36,Zaxby's,none,1886,6.0%,910,1.3%,N/A,Fast Casual & Chicken
+36,37,LongHorn Steakhouse,none,1867,6.3%,530,1.9%,N/A,Casual Dining & Steak
+37,38,Culver's,"One of the country's fastest-growing chains over the past five years continued that trajectory in 2019, increasing sales by 13.9% and unit count by 6.7%. Because more than half of its sales come from takeout, it was working to improve its drive-thru technology and add mobile ordering.",1795,13.9%,732,6.7%,N/A,Quick Service & Burger
+38,39,Golden Corral,none,1746,0.8%,483,-1.2%,N/A,Quick Service & Family Casual
+39,40,Five Guys Burgers and Fries,none,1661,7.4%,1368,0.7%,N/A,Fast Casual & Burger
+40,41,Red Robin Gourmet Burgers and Brews,"A tumultuous year for the burger chain included the retirement of CEO Denny Marie Post, who had been with Red Robin since 2011, and continued attempts by activist investors to force a sale of the company. It named Paul Murphy as its new CEO in September.",1548,-0.3%,556,-3.0%,N/A,Casual Dining & Varied Menu
+41,42,Raising Cane's Chicken Fingers,none,1466,23.8%,457,14.3%,N/A,Fast Casual & Chicken
+42,43,Carl's Jr.,none,1423,-2.5%,1095,-2.3%,N/A,Quick Service & Burger
+43,44,Wingstop,"2019 marked Wingstop's 16th consecutive year of comps growth. In October, it said it planned to broaden its offerings to include whole wings to take advantage of lower commodity prices on whole chickens.",1363,19.0%,1231,9.5%,N/A,Fast Casual & Chicken
+44,45,Waffle House,Waffle House,1344,3.4%,1959,1.2%,N/A,Family Dining & Family Style
+45,46,Jersey Mike's Subs,none,1340,16.7%,1667,11.6%,N/A,Fast Casual & Sandwich
+46,47,Bojangles',none,1331,2.7%,746,-1.3%,N/A,Quick Service & Chicken
+47,48,BJ's Restaurant & Brewhouse,"BJ's Restaurants' bullish approach to off-premise has paid off, helping it to pass TGI Fridays and become the No. 10 casual-dining chain. As of July, delivery sales at the chain were growing at a 20% clip, and the chain reported that takeout and catering sales were increasing as well. BJ's also overhauled its back-of-house operations in 2019 to make things more efficient and easier on employees.",1161,4.0%,208,3.0%,N/A,Casual Dining & Varied Menu
+48,49,TGI Fridays,none,1085,-8.5%,385,-7.9%,N/A,Casual Dining & Varied Menu
+49,50,In-N-Out Burger,none,957,4.6%,351,3.5%,N/A,Quick Service & Burger
+50,51,Steak 'n Shake,"As of August, the chain had temporarily closed more than 100 locations with plans to refranchise them to single-store operators. And in early 2020, it announced plans to convert about 100 units to counter service. Prior to the coronavirus crisis, it was named in a Fitch Ratings report as a chain at risk of a Chapter 11 filing.",950,-7.7%,576,-3.0%,N/A,Quick Service & Burger
+51,52,P.F. Chang's,none,917,1.4%,221,0.0%,N/A,Casual Dining & Asian
+52,53,Qdoba Mexican Eats,none,901,5.9%,730,-2.9%,N/A,Fast Casual & Mexican
+53,54,El Pollo Loco,none,894,3.0%,482,-0.4%,N/A,Quick Service & Chicken
+54,55,Krispy Kreme,none,887,4.4%,364,4.0%,N/A,Quick Service & Snack
+55,56,Hooters,none,858,0.4%,341,0.0%,N/A,Casual Dining & Sports Bar
+56,57,Del Taco,none,850,4.0%,596,2.8%,N/A,Quick Service & Mexican
+57,58,Firehouse Subs,none,832,4.8%,1155,1.9%,N/A,Fast Casual & Sandwich
+58,59,Bob Evans,none,795,-4.2%,483,-1.4%,N/A,Family Dining & Family Style
+59,60,Moe's Southwest Grill,none,749,2.0%,730,1.5%,N/A,Fast Casual & Mexican
+60,61,Papa Murphy's Pizza,"Though the chain saw declines in both sales and units in 2019, it remains beloved by consumers. Guests surveyed by Technomic named it their favorite limited-service pizza chain as well as a leader in tech-enabled ordering.",748,-5.9%,1329,-5.1%,N/A,Quick Service & Pizza
+61,62,Ruby Tuesday,none,731,-11.4%,451,-8.1%,N/A,Casual Dining & Varied Menu
+62,63,McAlister's Deli,none,725,7.0%,460,3.6%,N/A,Fast Casual & Sandwich
+63,64,Cheddar's Scratch Kitchen,none,724,0.6%,175,2.9%,N/A,Casual Dining & Varied Menu
+64,65,Church's Chicken,none,716,-5.2%,1032,-5.0%,N/A,Quick Service & Chicken
+65,66,Tim Hortons,"On the other side of that equation is Tim Hortons, which saw its consumer approval ratings slip by nearly 6 points in 2019, according to Technomic. A turnaround plan includes a renewed focus on the chain's core coffee and breakfast platforms along with changes to its loyalty program and a $100 million investment in drive-thru menu boards.",714,-3.5%,715,-1.7%,"Toronto, ON",Quick Service & Coffee Cafe
+66,67,Ruth's Chris Steak House,none,703,1.6%,135,1.5%,"Winter Park, FL",Steak
+67,68,Carrabba's Italian Grill,none,653,-1.0%,225,-0.9%,N/A,Casual Dining & Italian/Pizza
+68,69,Jason's Deli,none,647,-1.1%,283,1.8%,N/A,Fast Casual & Sandwich
+69,70,Marco's Pizza,none,628,4.8%,915,3.6%,N/A,Quick Service & Pizza
+70,71,Shake Shack,none,622,31.8%,173,27.2%,N/A,Fast Casual & Burger
+71,72,California Pizza Kitchen,none,621,-3.3%,199,-0.5%,N/A,Casual Dining & Italian/Pizza
+72,73,Baskin-Robbins,none,615,0.6%,2524,-1.0%,N/A,Quick Service & Frozen Desserts
+73,74,Yard House,none,609,6.6%,79,9.7%,N/A,Casual Dining & Varied Menu
+74,75,Bonefish Grill,none,587,-0.9%,197,0.0%,N/A,Casual Dining & Seafood
+75,76,White Castle,none,579,2.4%,371,-0.5%,N/A,Quick Service & Burger
+76,77,Tropical Smoothie Cafe,none,576,21.8%,834,16.0%,N/A,Quick Service & Beverage
+77,78,Dave & Buster's,none,571,6.5%,132,10.9%,"Dallas, TX",Sports Bar
+78,79,Dutch Bros. Coffee,none,567,15.0%,369,13.2%,N/A,Quick Service & Coffee Cafe
+79,80,Captain D's Seafood Kitchen,none,561,3.1%,540,2.1%,N/A,Quick Service & Seafood
+80,81,Auntie Anne's,none,559,0.2%,1288,-0.5%,N/A,Quick Service & Snack
+81,82,First Watch,none,558,35.1%,368,24.7%,N/A,Family Dining & Family Style
+82,83,Perkins Restaurant & Bakery,"After its parent company filed for Chapter 11 protection in August, the struggling family-dining chain was scooped up by Huddle House for $51.5 million. Its new owner said it had no plans to convert Perkins units into Huddle Houses or vice versa.",541,-9.5%,309,-13.0%,N/A,Family Dining & Family Style
+83,84,Freddy's Frozen Custard & Steakburgers,none,535,12.9%,368,12.2%,N/A,Fast Casual & Burger
+84,85,Checkers Drive-In Restaurants,none,535,-1.8%,584,-0.2%,N/A,Quick Service & Burger
+85,86,Noodles & Company,"The chain followed up on its successful 2018 introduction of zucchini noodles with a cauliflower-based noodle last year. It also saw growth via digital channels and catering, and said it was poised to resume franchise growth that had slowed in recent years as the chain stabilized.",533,0.9%,457,-0.4%,N/A,Fast Casual & Asian/Noodle
+86,87,Einstein Bros. Bagels,none,517,-2.1%,710,-2.6%,N/A,Quick Service & Bakery Cafe
+87,88,Jamba,none,514,0.8%,767,-1.8%,N/A,Quick Service & Beverage
+88,89,Portillo's,none,505,12.2%,62,8.8%,N/A,Fast Casual & Sandwich
+89,90,Boston Market,none,501,-9.9%,390,-14.1%,N/A,Fast Casual & Chicken
+90,91,The Habit Burger Grill,none,500,14.5%,273,10.5%,N/A,Fast Casual & Burger
+91,92,Logan's Roadhouse,none,496,-3.7%,204,-1.0%,N/A,Casual Dining & Steak
+92,93,MOD Pizza,none,483,23.8%,467,18.2%,N/A,Fast Casual & Pizza
+93,94,Smoothie King,none,462,11.2%,972,8.0%,N/A,Quick Service & Beverage
+94,95,Mellow Mushroom,none,461,-0.3%,187,-1.1%,N/A,Casual Dining & Italian/Pizza
+95,96,The Capital Grille,none,461,4.7%,58,0.0%,N/A,Fine Dining & Steak
+96,97,Round Table Pizza,none,450,1.3%,435,0.7%,N/A,Quick Service & Pizza
+97,98,Miller's Ale House,none,446,10.2%,98,11.4%,N/A,Casual Dining & Sports Bar
+98,99,Potbelly sandwich Shop,"Potbelly closed stores and halted company-owned unit growth last year and hired a consulting firm to help it return to profitability. In a bid to boost operational efficiency, it debuted a new prototype in Chicago that reverses the concept's normal ordering process.",446,-2.5%,471,-1.5%,N/A,Quick Service & Sandwich
+99,100,Hungry Howie's Pizza,none,439,7.0%,537,-2.4%,N/A,Quick Service & Pizza
+100,101,Charleys Philly Steaks,none,435,4.9%,540,2.3%,N/A,Quick Service & Sandwich
+101,102,Chuy's,none,426,7.1%,100,0.0%,"Austin, TX",Mexican
+102,103,O'Charley's,none,426,-7.6%,196,-5.3%,"Nashville, TN",Varied Menu
+103,104,Pollo Tropical,none,425,-2.1%,174,3.0%,"Miami, FL",Chicken
+104,105,Maggiano's Little Italy,none,417,1.1%,53,1.9%,"Dallas, TX",Italian/Pizza
+105,106,Cicis,none,410,-1.4%,420,0.7%,"Coppell, TX",Pizza
+106,107,Long John Silver's,none,404,-8.2%,850,-2.4%,"Louisville, KY",Seafood
+107,108,Saltgrass Steak House,none,402,14.9%,88,10.0%,"Houston, TX",Steak
+108,109,Chuck E. Cheese's,none,381,-0.5%,537,1.3%,"Irving, TX",Pizza
+109,110,Taco John's,none,373,0.5%,387,-1.3%,"Cheyenne, WY",Mexican
+110,111,Texas de Brazil Churrascaria,none,370,10.5%,58,9.4%,"Dallas, TX",Steak
+111,112,Cold Stone Creamery,none,369,-2.3%,895,-0.9%,"Scottsdale, AZ",Frozen Desserts
+112,113,Blaze Pizza,none,366,12.4%,313,5.7%,"Pasadena, CA",Pizza
+113,114,Peet's Coffee,none,357,4.3%,423,2.2%,"Emeryville, CA",Coffee Cafe
+114,115,Dickey's Barbecue Pit,none,349,-9.2%,497,-6.4%,"Dallas, TX",BBQ
+115,116,Zoes Kitchen,none,348,1.2%,256,-1.5%,"Plano, TX",Sandwich
+116,117,Corner Bakery_Cafe,none,348,-3.9%,175,-3.8%,"Dallas, TX",Bakery Cafe
+117,118,Krystal Co.,none,343,-9.0%,318,-10.7%,"Dunwoody, GA",Burger
+118,119,Benihana,none,340,1.6%,71,0.0%,"Doral, FL",Asian
+119,120,Cooper's Hawk Winery & Restaurants,none,338,19.9%,41,17.1%,"Countryside, IL",Varied Menu
+120,121,Big Boy/Frisch's Big Boy,none,338,-3.4%,194,-3.0%,"Warren, MI",Family Style
+121,122,Black Bear Diner,none,336,15.3%,138,15.0%,"Redding, CA",Family Style
+122,123,Twin Peaks,none,335,2.6%,84,0.0%,"Dallas, TX",Sports Bar
+123,124,Schlotzsky's,none,335,-0.5%,373,0.5%,"Atlanta, GA",Sandwich
+124,125,Jet's Pizza,none,331,-1.8%,383,-1.0%,"Sterling Heights, MI",Pizza
+125,126,Famous Dave's,none,329,-8.0%,128,-11.1%,"Minnetonka, MN",BBQ
+126,127,On The Border Mexican Grill & Cantina,none,327,-6.1%,136,-4.9%,"Irving, TX",Mexican
+127,128,Fogo de Chao,none,326,10.1%,43,13.2%,"Plano, TX",Steak
+128,129,Ninety Nine Restaurants,none,324,2.1%,108,0.9%,"Woburn, MA",Varied Menu
+129,130,Village Inn,none,313,-7.9%,183,-9.0%,"Denver, CO",Family Style
+130,131,Taco Cabana,none,311,-4.4%,172,1.2%,"Addison, TX",Mexican
+131,132,Fleming's Prime Steakhouse & Wine Bar,none,307,1.0%,68,-2.9%,"Tampa, FL",Steak
+132,133,Caribou Coffee,none,306,6.7%,464,3.8%,"Minneapolis, MN",Coffee Cafe
+133,134,Jack's,none,290,9.8%,176,8.6%,"Birmingham, AL",Burger
+134,135,Au Bon Pain,none,289,-8.1%,170,-5.6%,"Boston, MA",Bakery Cafe
+135,136,Bar Louie,none,284,-5.6%,128,-3.0%,"Addison, TX",Varied Menu
+136,137,Sarku Japan,none,281,2.4%,224,-0.4%,"New York, NY",Asian/Noodle
+137,138,Old Chicago Pizza & Taproom,none,275,4.5%,109,1.9%,"Chattanooga, TN",Italian/Pizza
+138,139,Rally's Hamburgers,none,275,-3.5%,290,-3.7%,"Lexington, KY",Burger
+139,140,Torchy's Tacos,none,272,17.3%,72,14.3%,"Austin, TX",Mexican
+140,141,Pizza Ranch,none,269,7.3%,212,2.9%,"Orange City, IA",Pizza
+141,142,Pappadeaux Seafood Kitchen,none,269,3.1%,40,0.0%,"Houston, TX",Seafood
+142,143,Braum's Ice Cream & Dairy Stores,none,268,2.2%,281,0.0%,"Oklahoma City, OK",Frozen Desserts
+143,144,Pei Wei Asian Diner,none,268,-12.5%,150,-16.7%,"Irving, TX",Asian/Noodle
+144,145,Cafe Rio Mexican Grill,none,267,9.9%,126,6.8%,"Salt Lake City, UT",Mexican
+145,146,Morton's The Steakhouse,none,266,-1.5%,63,-1.6%,"Houston, TX",Steak
+146,147,Smashburger,none,265,-6.5%,312,-3.4%,"Denver, CO",Burger
+147,148,Wienerschnitzel,none,265,3.6%,330,1.5%,"Irvine, CA",Sandwich
+148,149,Sizzler,none,259,-3.8%,122,-6.9%,"Mission Viejo, CA",Family Casual
+149,150,Seasons 52,none,253,1.4%,44,4.8%,"Orlando, FL",Varied Menu
+150,151,Bahama Breeze Island Grille,none,252,5.3%,43,7.5%,N/A,Varied Menu
+151,152,Pret A Manger,"CEO Clive Schlee retired after 16 years at the helm of the natural foods chain, handing the reign to COO Pano Christou. The transition came in July as Pret prepared to take over U.K. vegetarian chain Eat.",252,4.7%,95,3.3%,N/A,Bakery Cafe
+152,153,Godfather's Pizza,none,250,4.9%,569,3.8%,N/A,Pizza
+153,154,Huddle House,none,247,0.9%,342,-2.6%,N/A,Family Style
+154,155,Mastro's Restaurants,none,242,9.7%,18,5.9%,N/A,Steak
+155,156,Uncle Julio's,none,239,11.7%,36,2.9%,N/A,Mexican
+156,157,Fazoli's,none,238,2.8%,215,0.0%,N/A,Sandwich
+157,158,Rubio's,none,232,-0.1%,197,-3.4%,N/A,Mexican
+158,159,Legal Sea Foods,none,227,-1.9%,34,-2.9%,N/A,Seafood
+159,160,A&W All-American Food,"The chain's 100th birthday found it working to reconcile its classic heritage with modern trends. It has doubled down on social media marketing to target younger generations and introduced tablet-based staff training to slow turnover. It's exploring delivery, though ""the jury's still out,"" CEO Kevin Bazner told RB in July.",227,1.8%,575,-6.5%,N/A,Burger
+160,161,Newk's Eatery,none,227,0.4%,121,-0.8%,N/A,Sandwich
+161,162,Fuzzy's Taco Shop,none,225,8.6%,152,3.4%,N/A,Mexican
+162,163,Sbarro,none,218,-4.0%,300,-2.6%,N/A,Pizza
+163,164,Romano's Macaroni Grill,none,218,-4.6%,85,-3.4%,N/A,Italian/Pizza
+164,165,Brio Tuscan Grille,none,217,-4.0%,57,-1.7%,N/A,Italian/Pizza
+165,166,Lazy Dog Restaurant & Bar,none,213,21.3%,36,20.0%,N/A,Varied Menu
+166,167,Souplantation & Sweet Tomatoes,none,211,-3.3%,97,0.0%,N/A,Family Casual
+167,168,Friendly's,"The family-dining chain closed many underperforming units in 2019, including 23 on one day in April, reducing its unit count by more than 20% for the year. The 86-year-old brand cited ""shifting consumer demographics and market dynamics"" as challenges.",210,-15.3%,160,-20.4%,N/A,Family Style
+168,169,Del Frisco's Double Eagle Steak House,none,205,12.4%,16,0.0%,N/A,Steak
+169,170,Penn Station East Coast Subs,none,201,0.8%,306,-1.3%,N/A,Sandwich
+170,171,Cinnabon,none,201,5.6%,956,3.5%,N/A,Snack
+171,172,Uno Pizzeria & Grill,none,196,-12.9%,85,-14.1%,N/A,Italian/Pizza
+172,173,J. Alexander's,none,195,2.8%,34,3.0%,N/A,Varied Menu
+173,174,Luby's,"Luby's, another of the industry's oldest concepts, also closed underperforming locations last year, shrinking its footprint by 6%. And in September, it said it had begun investigating ""strategic alternatives,"" or a sale, merger or refinancing.",195,-7.5%,79,-6.0%,N/A,Family Casual
+174,175,Which Wich,"Under the guidance of new President Cherry Hearn, the chain updated its food and beverage menu, starting with the introduction of french fries in July. It also planned to add more chef-created sandwiches in addition to its extensive build-your-own options.",193,-4.2%,372,-3.9%,N/A,Sandwich
+175,176,Firebirds Wood Fired Grill,none,192,7.4%,51,6.3%,N/A,Varied Menu
+176,177,Le Pain Quotidien,none,192,1.2%,94,0.0%,N/A,Bakery Cafe
+177,178,Sonny's BBQ,none,191,-8.3%,94,-6.9%,N/A,BBQ
+178,179,True Food Kitchen,"The health-focused chain with a rotating menu is in growth mode, with plans for new units as well as its first stand-alone cocktail and juice bar, located next to a new True Food Kitchen location at Caesars Palace in Las Vegas.",190,13.8%,32,28.0%,N/A,Varied Menu
+179,180,Buca di Beppo,none,189,-5.7%,76,-1.3%,N/A,Italian/Pizza
+180,181,Hard Rock Cafe,none,187,-5.2%,40,-4.8%,N/A,Varied Menu
+181,182,Johnny Rockets,none,186,-10.2%,155,-11.4%,N/A,Varied Menu
+182,183,Fuddruckers,none,185,-15.8%,138,-11.5%,N/A,Burger
+183,184,The Original Pancake House,none,185,3.1%,141,0.0%,N/A,Family Style
+184,185,Sweetgreen,"In June, Sweetgreen made its first acquisition: meal delivery service Galley Foods. The move signaled a new and more aggressive approach to delivery for the fast-growing chain, combining Sweetgreen's supply chain with Galley's knowledge of home delivery.",184,16.8%,102,10.9%,N/A,Healthy
+185,186,Golden Chick,none,183,6.7%,184,0.5%,N/A,Chicken
+186,187,Mountain Mike's Pizza,none,181,10.9%,215,5.4%,N/A,Pizza
+187,188,Bubba Gump Shrimp Co.,none,181,-2.9%,27,0.0%,N/A,Seafood
+188,189,The Melting Pot,none,181,-6.5%,105,-7.9%,N/A,Varied Menu
+189,190,Farmer Boys,none,179,1.7%,93,1.1%,N/A,Burger
+190,191,Donatos Pizza,none,179,3.8%,165,3.1%,N/A,Pizza
+191,192,Shoney's,none,179,-4.4%,126,-0.8%,N/A,Family Style
+192,193,Taco Bueno,none,178,-12.4%,145,-12.1%,N/A,Mexican
+193,194,Claim Jumper,none,177,-10.2%,35,-5.4%,N/A,Varied Menu
+194,195,Wetzel's Pretzels,none,177,3.9%,353,5.4%,N/A,Snack
+195,196,La Madeleine Country French Cafe,none,174,2.4%,87,0.0%,N/A,Bakery Cafe
+196,197,Giordano's,none,173,5.5%,70,1.4%,N/A,Italian/Pizza
+197,198,Islands Fine Burgers & Drinks,none,173,0.9%,56,0.0%,N/A,Varied Menu
+198,199,Mimi's Bistro & Bakery,none,172,-4.8%,77,-2.5%,N/A,Varied Menu
+199,200,Beef 'O' Brady's,"The chain is working on a rejuvenation, converting about 26 of its franchised units to company-owned ones and using those as testing grounds for new initiatives. It rolled out a separate lunch menu and added some higher-quality dinner options such as steak and salmon, and is also investing in high-tech fryers and a new POS system.",171,-5.0%,153,-2.5%,N/A,Sports Bar
+200,201,Metro Diner,none,171,36.3%,69,3.0%,N/A,Family Style
+201,202,Bill Miller Bar-B-Q,none,170,3.6%,75,1.4%,N/A,BBQ
+202,203,Black Angus Steakhouse,none,168,1.6%,42,-4.5%,N/A,Steak
+203,204,Smokey Bones Bar & Fire Grill,"New CEO James O'Reilly, hired in May, plans to overhaul the barbecue chain's menu this year, disposing of items such as fish and chips and getting back to the basics with house-smoked barbecue, steaks and burgers. It will also focus more on the bar, with an emphasis on craft beer and cocktails.",168,-1.3%,61,-3.2%,N/A,BBQ
+204,205,Joe's Crab Shack,none,166,-7.4%,53,-7.0%,N/A,Seafood
+205,206,LaRosa's Pizzeria,none,164,3.7%,66,3.1%,N/A,Italian/Pizza
+206,207,Roosters,none,163,6.7%,42,2.4%,N/A,Varied Menu
+207,208,Great Harvest Bread Co.,none,162,-1.9%,182,-0.5%,N/A,Bakery Cafe
+208,209,Shari's Cafe and Pies,none,161,-2.4%,92,0.0%,N/A,Family Style
+209,210,Lee's Famous Recipe Chicken,none,161,-2.3%,129,-1.5%,N/A,Chicken
+210,211,Wayback Burgers,none,159,2.0%,143,0.7%,N/A,Burger
+211,212,McCormick & Schmick's,none,157,-15.6%,35,-14.6%,N/A,Seafood
+212,213,Grand Lux Cafe,none,157,1.2%,13,0.0%,N/A,Varied Menu
+213,214,Anthony's Coal Fired Pizza,none,153,4.0%,68,1.5%,N/A,Italian/Pizza
+214,215,Chicken Salad Chick,"Benefiting from being perhaps the only chain focusing on chicken salad, Chicken Salad Chick announced its 16th consecutive quarter of same-store sales growth in February 2020. It was acquired by private-equity firm Brentwood Associates in November.",153,39.5%,144,38.5%,N/A,Chicken
+215,216,Paris Baguette,"The chain originating in South Korea is growing quickly in the U.S. under the guidance of growth-chain veterans such as Darren Tipton and Jack Moran, formerly of Le Pain Quotidien. Tipton moved up to CEO for U.S. operations in 2019, and Moran became the company's global chief.",152,14.5%,81,8.0%,N/A,Bakery Cafe
+216,217,Eat'n Park,none,152,-6.5%,63,-7.4%,N/A,Family Style
+217,218,Hurricane Grill & Wings,none,151,0.8%,56,0.0%,N/A,Sports Bar
+218,219,The Old Spaghetti Factory,none,150,2.2%,42,0.0%,N/A,Italian/Pizza
+219,220,Taziki's Mediterranean Cafe,none,149,11.9%,93,6.9%,N/A,Ethnic
+220,221,Menchie's Frozen Yogurt,none,149,-3.1%,416,-2.1%,N/A,Frozen Desserts
+221,222,Bruegger's Bagels,none,148,-4.5%,210,-2.8%,N/A,Bakery Cafe
+222,223,Tijuana Flats,none,147,6.5%,139,2.2%,N/A,Mexican
+223,224,Duffy's Sports Grill,none,144,2.6%,34,0.0%,N/A,Sports Bar
+224,225,Eddie V's Prime Seafood,none,144,8.1%,21,10.5%,N/A,Seafood
+225,226,Topgolf,"The eatertainment chain developed a new, smaller prototype that will allow it to go into small and midsize cities, greatly expanding its potential market. It was focused on places with between 100,000 and 500,000 residents. The first such location opened in Kirkland, Wash., in January.",144,14.6%,54,14.9%,N/A,Varied Menu
+226,227,Ocean Prime,none,144,20.2%,16,6.7%,N/A,Seafood
+227,228,Pappasito's Cantina,none,143,2.2%,25,0.0%,N/A,Mexican
+228,229,Pollo Campero,none,143,1.1%,78,-2.5%,N/A,Chicken
+229,230,Houlihan's,The chain filed for bankruptcy in November and was simultaneously acquired by Landry's for $40 million. The move followed the closure of 12 unprofitable stores. It joins Landry's collection of polished-casual chains such as Morton's The Steakhouse and McCormick & Schmick's.,143,-21.2%,45,-32.8%,N/A,Varied Menu
+230,231,Old Country Buffet/HomeTown Buffet,none,142,-18.8%,49,-24.6%,N/A,Family Casual
+231,232,Great American Cookies,none,142,2.7%,368,2.2%,N/A,Snack
+232,233,Nobu,none,139,9.4%,17,13.3%,N/A,Asian
+233,234,BurgerFi,none,138,3.0%,112,7.7%,N/A,Burger
+234,235,Mission BBQ,none,136,25.0%,90,21.6%,N/A,BBQ
+235,236,Walk-On's Sports Bistreaux,none,133,27.8%,33,37.5%,N/A,Sports Bar
+236,237,The Coffee Bean & Tea Leaf,"The LA-based chain was acquired by Jollibee in July for $350 million, becoming the largest deal yet for the international fast-food company. Jollibee planned to grow the The Coffee Bean in Asia, where there's a race for coffee supremacy.",133,-2.1%,282,-0.7%,N/A,Coffee Cafe
+237,238,Yogurtland,none,132,-2.6%,267,-2.2%,N/A,Frozen Desserts
+238,239,Daylight Donuts,none,132,2.2%,415,0.2%,N/A,Snack
+239,240,WaBa Grill,none,132,3.7%,191,0.0%,N/A,Asian/Noodle
+240,241,54th Street Restaurant & Drafthouse,none,131,4.5%,31,6.9%,N/A,Varied Menu
+241,242,Biggby Coffee,none,129,3.8%,240,0.8%,N/A,Coffee Cafe
+242,243,Costa Vida Fresh Mexican Grill,none,129,5.2%,93,2.2%,N/A,Mexican
+243,244,L&L Hawaiian Barbecue,none,129,5.1%,195,3.7%,N/A,BBQ
+244,245,Gyu-Kaku,none,129,18.6%,52,8.3%,N/A,Asian
+245,246,Rainforest Cafe,none,129,-10.4%,18,-5.3%,N/A,Varied Menu
+246,247,PDQ,none,127,-5.5%,56,-11.1%,N/A,Chicken
+247,248,Lupe Tortilla,none,127,12.1%,25,8.7%,N/A,Mexican
+248,249,Cook-Out Restaurant,none,126,10.1%,270,7.1%,N/A,Burger
+249,250,Jollibee,none,126,15.2%,40,11.1%,N/A,Chicken
