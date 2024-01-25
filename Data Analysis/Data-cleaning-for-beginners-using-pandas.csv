@@ -1,0 +1,30 @@
+Index,Age,Salary,Rating,Location,Established,Easy Apply
+0,44,$44k-$99k,5.4,"India,In",1999,TRUE
+1,66,$55k-$66k,3.5,"New York,Ny",2002,TRUE
+2,,$77k-$89k,-1,"New York,Ny",-1,-1
+3,64,$44k-$99k,4.4,India In,1988,-1
+4,25,$44k-$99k,6.4,Australia Aus,2002,-1
+5,44,$77k-$89k,1.4,"India,In",1999,TRUE
+6,21,$44k-$99k,0,"New York,Ny",-1,-1
+7,44,$44k-$99k,-1,Australia Aus,-1,-1
+8,35,$44k-$99k,5.4,"New York,Ny",-1,-1
+9,22,$44k-$99k,7.7,"India,In",-1,TRUE
+10,55,$10k-$49k,5.4,"India,In",2008,TRUE
+11,44,$10k-$49k,6.7,"India,In",2009,-1
+12,,$44k-$99k,0,"India,In",1999,-1
+13,25,$44k-$99k,-1,Australia Aus,2019,TRUE
+14,66,$44k-$99k,4,Australia Aus,2020,TRUE
+15,44,$88k-$101k,3,Australia Aus,1999,-1
+16,19,$19k-$40k,4.5,"India,In",1984,-1
+17,,$44k-$99k,5.3,"New York,Ny",1943,TRUE
+18,35,$44k-$99k,6.7,"New York,Ny",1954,TRUE
+19,32,$44k-$99k,3.3,"New York,Ny",1955,TRUE
+20,,$44k-$99k,5.7,"New York,Ny",1944,TRUE
+21,35,$44k-$99k,5,"New York,Ny",1946,-1
+22,19,$55k-$66k,7.8,"New York,Ny",1988,TRUE
+23,,$44k-$99k,2.4,"New York,Ny",1999,TRUE
+24,13,$44k-$99k,-1,"New York,Ny",1987,-1
+25,55,$44k-$99k,0,Australia Aus,1980,TRUE
+26,,$55k-$66k,,"India,In",1934,TRUE
+27,52,$44k-$99k,5.4,"India,In",1935,-1
+28,,$39k-$88k,3.4,Australia Aus,1932,-1
