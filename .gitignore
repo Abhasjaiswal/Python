@@ -1,0 +1,5 @@
+# Ignore myenv folder
+/myenv/
+
+# Ignore Python.bfg-report folder
+/Python.bfg-report/
