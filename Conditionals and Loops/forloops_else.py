@@ -16,3 +16,7 @@ for Lang in Languages:
       else:
           print("I dont like Python")
  
+for letter in "HELLO":
+      print(letter,end=" ")
+else:
+      print("Done")
