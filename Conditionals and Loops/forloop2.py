@@ -8,3 +8,8 @@ for i in range(0,n+1):
 print(sum)
     
     
+# Pattern 
+for i in range (5):
+      print()
+      for j in range(5):
+           print("*",end=' ')
