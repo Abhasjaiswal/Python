@@ -59,3 +59,6 @@ variable=12
 string="""Variable as integer = %d \n 
 Variable as float = %f""" %(variable,variable)
 print(string)
+
+
+print("The value of pi is: {1:1.5f}".format(3.14159,1.11))
