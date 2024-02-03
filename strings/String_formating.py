@@ -55,4 +55,7 @@ print("I got {0:f}% marks in English ".format(55))
 #The length of the value after the deciman point can be controlled
 print("I got {0:.2f}% marks in English ".format(55.785673495))
 #OUTPUT: I got 55.79% marks in English 
-
+variable=12
+string="""Variable as integer = %d \n 
+Variable as float = %f""" %(variable,variable)
+print(string)
