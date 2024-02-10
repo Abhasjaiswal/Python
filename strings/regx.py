@@ -106,3 +106,22 @@ if x:
       
 else:
       print("No Match")
+
+#return a match at every no-digit character:
+
+x=re.findall("\D",sentence)
+print(x)
+if x:
+      print("Yes,there is at least one match")
+      
+else:
+      print("No Match")
+     
+sentence="The rain in Spain"
+x=re.findall("\s",sentence)
+print(x)
+if x:
+      print("Yes,there is at least one match")
+      
+else:
+      print("No Match")
