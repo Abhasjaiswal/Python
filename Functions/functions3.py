@@ -65,4 +65,4 @@ def function(num2):
 func(20)   #20 is passed as an arguement to the function 
 print("num1 again= ",num1)
 #Error- Local variable can't be used outside the function in which it is defined
-print("num3 outside function = ",num3)
+#print("num3 outside function = ",num3)
