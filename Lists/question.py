@@ -8,7 +8,7 @@ print(filtered_animal)
 
 
 
-#using list comprehension syntax 
+#using list comprehension 
 
 animals = ['lion', 'tiger', 'monkey', 'elephant', 'frog']
 filtered_animals = [animal.title() for animal in animals]
